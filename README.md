@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heiner Salvatierra (@Heiner07) from Limón, Costa Rica.
 - 👀 I’m mainly interested in mobile app development with Android (native) and Flutter (cross-platform), but i also like .NET
-- 🌱 I’m currently learning native Android, Flutter and Blazor (and hope IOS soon...).
+- 🌱 I’m currently learning native Android, Flutter and Blazor.
 - 📫 How to reach me: You can send me an email to heiner007@outlook.es
 
 <!---
